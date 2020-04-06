@@ -32,7 +32,7 @@
 \thispagestyle{empty}
 \noindent
 \begin{center}
-{\large\bfseries Computational Chemistry and Materials Modeling\par}
+{\large\bfseries Advanced Materials Modeling \par}
 \vskip 0.5ex
 {\large\bfseries \@title \par}
 \end{center}
